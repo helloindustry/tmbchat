@@ -1,0 +1,30 @@
+{
+  "repoUrl": "https://github.com/YOUR_ORG/YOUR_REPO",
+  "newTopicUrl": "https://github.com/YOUR_ORG/YOUR_REPO/discussions/new?category=General",
+  "rooms": [
+    {
+      "slug": "announcements",
+      "name": "Announcements",
+      "readonly": true,
+      "threads": []
+    },
+    {
+      "slug": "general",
+      "name": "General",
+      "readonly": false,
+      "threads": []
+    },
+    {
+      "slug": "events",
+      "name": "Events",
+      "readonly": false,
+      "threads": []
+    },
+    {
+      "slug": "ideas",
+      "name": "Ideas",
+      "readonly": false,
+      "threads": []
+    }
+  ]
+}
